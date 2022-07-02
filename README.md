@@ -1,6 +1,16 @@
 # Test Automation a PHP Travels
 
-## El presente proyecto busca demostrar la importancia y utilidad de realizar pruebas en los Softwares antes de que salgan a producción para que puedan ser utilizadas por los usuarios finales, enfocándose principalmente en el “Testing” de una página Web: PHP Travels. Para alcanzar dicho objetivo se emplearán las siguientes herramientas: Selenium WebDriver, Eclipse IDE y Github.
+# Este proyecto se realiza con el objetivo de desarrollar las habilidades para emplear los diferentes tipos de pruebas, para el desarrollo de este será utilizada la página:
+# -PHP Travels.
+# Se aplicarán las pruebas de:
+# -Smoke (Tanto manual como automatizada)
+# -Regresión (Tanto manual como automatizada)
+# Depurando los casos de prueba nos permite que la página web PHP Travels sea más interactiva para usuarios finales, evitando errores y creando un ambiente seguro. 
+# Para las pruebas automatizadas se utilizarán las siguientes herramientas:
+# -Selenium. 
+# -WebDriver.
+# -Eclipse IDE.
+# -Github.
 
 ###### **Integrantes:**
 ###### * Melany Arlin Arrieta Céspedes
